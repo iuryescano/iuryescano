@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm 「 ✦ Iury Escano ✦ 」 👋
 
-<!--
-**iuryescano/iuryescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer. And I am currently working as a solutions analyst with a view to having an opportunity to work as a developer in the future.
 
-Here are some ideas to get you started:
+#### Current Stack
+-  Main Language: `Javascript`
+-  Backend: `Node｡🇯‌🇸`
+-  Frontend: `React｡🇯‌🇸`, `HTML5`, `CSS3`, `Javascript`
+-  Layout Design: `Figma`
+-  Version Code Control: `Git & GitHub`
+-  Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ####Contacts
+  - Email: iurycordeiro15@gmail.com
+  - Linkedin: https://www.linkedin.com/in/iury-cordeiro/
