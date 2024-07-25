@@ -1,6 +1,6 @@
 ### Hi there, I'm 「 ✦ Iury Escano ✦ 」 👋
 
-#### About 🧑🏻‍💻
+#### About 😉
 I'm a web developer. And I am currently working as a solutions analyst with a view to having an opportunity to work as a developer in the future.
 
 #### Current Stack ✨
@@ -12,5 +12,5 @@ I'm a web developer. And I am currently working as a solutions analyst with a vi
 -  Tools: `VsCode`
 
   #### Contacts 📞
-  - Email: iurycordeiro15@gmail.com
-  - Linkedin: https://www.linkedin.com/in/iury-cordeiro/
+  - 📧 Email: iurycordeiro15@gmail.com 
+  - 🧑🏻 Linkedin: https://www.linkedin.com/in/iury-cordeiro/
