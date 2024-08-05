@@ -29,6 +29,7 @@ I'm a web developer. And I am currently working as a solutions analyst with a vi
  <div>
    <a href="https://github.com/iuryescano/">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=IuryEscano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryEscano&theme=cobalt&count_private=true"/>
 </div>
 
   #### <h2> Contacts 📞 </h2>
