@@ -11,6 +11,12 @@ I'm a web developer. And I am currently working as a solutions analyst with a vi
 -  Version Code Control: `Git & GitHub`
 -  Tools: `VsCode`
 
+  
+ <div>
+   <a href="https://github.com/iuryescano/">
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=IuryEscano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+
   #### <h3> Contacts 📞 </h3>
 <div> 
   <a href="https://instagram.com/iury_escano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
