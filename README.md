@@ -1,6 +1,6 @@
-### <div> <h1> Hi there, I'm 「 ✦ Iury Escano ✦ 」<a><img src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" target="_blank" height="40" width="40"></a> </div>
+### <div> <h2> Hi there, I'm 「 ✦ Iury Escano ✦ 」<a><img src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" target="_blank" height="40" width="40"></a> </h2> </div>
 
-#### <h2> About 😉 </h2>
+#### About 😉 
 I'm a web developer. And I am currently working as a solutions analyst with a view to having an opportunity to work as a developer in the future.
 
 #### <h3> Current Stack ✨</h3>
