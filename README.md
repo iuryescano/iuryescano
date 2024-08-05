@@ -12,7 +12,7 @@ I'm a web developer. And I am currently working as a solutions analyst with a vi
 -  Tools: `VsCode`
 
   
- <div>
+ <div align="center">
    <a href="https://github.com/iuryescano/">
    <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=IuryEscano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </div>
