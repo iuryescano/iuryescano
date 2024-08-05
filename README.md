@@ -1,9 +1,9 @@
 ### <div> <h2> Hi there, I'm 「 ✦ Iury Escano ✦ 」<a><img src="https://media.tenor.com/xS_t2ANBv9UAAAAi/elsalla.gif" target="_blank" height="40" width="40"></a> </h2> </div>
 
-#### <h3> About <a><img src="https://media.tenor.com/Mq31WhXob20AAAAi/wink-emoji.gif" height="20" width="20"></a></div> </h3> 
+#### <h3> About <a><img src="https://media.tenor.com/Mq31WhXob20AAAAi/wink-emoji.gif" height="20" width="20"></a> </h3> 
 I'm a web developer. And I am currently working as a solutions analyst with a view to having an opportunity to work as a developer in the future.
 
-#### <h2> Current Stack ✨</h2>
+#### <h2> Current Stack <a><img src="https://media.tenor.com/2EfMFMLkow0AAAAj/sparkles-joypixels.gif" height="27" width="27"></a></h2>
 - <h3>Main Language</h3> <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></div> 
 - <h3>Back-End and Database</h3> 
   <div>
