@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://cdn3.mage.space/temp/30d/creations/MIUZxXmDa3cMApa8yzN9Rk9yqFm1/image/80d2a4bf796289c7d7174b036abedf42.jpg" height="180" widht="180"/>
+      <img src="https://github.com/user-attachments/assets/94a77b63-f5e9-4105-a6e3-07a77b2f8fd8" height="180" widht="180"/>
     </td>
     <td>
       I'm a web developer. And I am currently working as a solutions analyst <br/>with a view to having an opportunity to work as a developer in the future. 
