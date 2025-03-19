@@ -13,7 +13,7 @@
 </table>
 
 #### <h2> Current Stack <a><img src="https://media.tenor.com/2EfMFMLkow0AAAAj/sparkles-joypixels.gif" height="27" width="27"></a></h2>
-- <h3>Main Language</h3> <div><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/></div> 
+- <h3>Main Language</h3> <div><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"alt="javascript"/></div> 
 - <h3>Back-End and Database</h3> 
   <div>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
