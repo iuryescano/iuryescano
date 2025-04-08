@@ -36,9 +36,8 @@
   
 #### <h2> Status Git 📈 </h2>
  <div>
-   <a href="https://github.com/iuryescano/">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=iuryescano&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryescano&theme=cobalt&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuryescano&layout=compact&langs_count=20&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iuryescano&theme=tokyonight" />
 </div>
 
   #### <h2> Contacts 📞 </h2>
